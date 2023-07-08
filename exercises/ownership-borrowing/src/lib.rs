@@ -154,9 +154,6 @@ fn exercise8() {
             continue;
         }
 
-        let person_0 = add_vec[0];
-        println!("person_0 {}", person_0);
-
         let person = add_vec[0].to_string();
         accounting.push(person);
     }
